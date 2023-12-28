@@ -1,0 +1,51 @@
+export const thaliMenu = [
+  {
+    id: 1,
+    item: "Chapati",
+    description: "Whole wheat flatbread",
+    price: 20,
+    category: "Bread",
+  },
+  {
+    id: 2,
+    item: "Paneer Masala",
+    description: "Cottage cheese curry with spices",
+    price: 100,
+    category: "Main Course",
+  },
+  {
+    id: 3,
+    item: "Rice",
+    description: "Steamed basmati rice",
+    price: 40,
+    category: "Main Course",
+  },
+  {
+    id: 4,
+    item: "Curd",
+    description: "Fresh yogurt",
+    price: 30,
+    category: "Side Dish",
+  },
+  {
+    id: 5,
+    item: "Pickle",
+    description: "Assorted pickles",
+    price: 20,
+    category: "Side Dish",
+  },
+  {
+    id: 6,
+    item: "Sweet",
+    description: "Dessert - Gulab Jamun",
+    price: 50,
+    category: "Dessert",
+  },
+  {
+    id: 7,
+    item: "Daal",
+    description: "Lentil curry",
+    price: 50,
+    category: "Main Course",
+  },
+];
